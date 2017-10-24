@@ -137,7 +137,7 @@
     .aside-switch {
         width: 100%;
         border-radius: inherit;
-        border-bottom: solid 1px #e6e6e6;;
+        border-bottom: solid 1px #e6e6e6;
     }
 
     .layout-aside-menu {
